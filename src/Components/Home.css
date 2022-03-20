@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Poppins&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Comfortaa'
+  
+}
+
+
+body {
+  font-family: 'Comfortaa';
+  /* background-color: blue; */
+}
+
+.title{
+    color: rgb(247, 100, 100);
+
+}
+.col-sm{
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+
+.cardcss{
+    display: flex;
+    position: relative;
+    margin-left: 60px;
+    margin-top: 35px;
+    /* padding: 16px; */
+}
+
+
+.cardcss :hover{
+  transform: translateY(-5px);
+  border: none;
+  /* border-bottom: 1px solid #2196fe; */
+}
+.arrows{
+  margin-left: 200px;
+
+
+}

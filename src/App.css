@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+body{
+    background-color: #fff;
+}
+/* 
+.home,
+.articles,
+.donate {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+} */
+
+
+.ShutdownNotice{
+    padding: 40px 20px 20px;
+    overflow: hidden;
+    background-color: #192440;
+    color: #fff;
+}
+.header{
+    margin: 0 0 1.45em;
+    font-size: 1rem;
+    line-height: 1.45em;
+    max-width: 660px;
+    margin-right: auto;
+    margin-left: auto;
+    color: #fff;
+}
+
+.heades{
+    margin: 0 0 1.45em;
+    font-size: 1rem;
+    line-height: 1.45em;
+    max-width: 660px;
+    margin-right: auto;
+    margin-left: auto;
+    color: #fff;
+}
+
+.Link{
+    color: white;
+    text-decoration-line: underline;
+    text-decoration: none;
+}
+
+.img1{
+    position: absolute;
+    top: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    width: 20%;
+    margin-top: -30px;
+}
+
+/* polka css */
+
+h1{
+    margin-left: 100px;
+    font-weight: bold;
+
+    
+}
+
+
+.polka{
+
+    width: 60%;
+    height: 60vh;
+    margin-left: 150px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.polkass{
+    margin-left: 150px;
+    margin-bottom: 30px;
+    font-weight: bold;
+
+}
+
+.polkassem{
+    margin-left: 100px;
+    letter-spacing: -0.003em;
+    line-height: 28px;
+    margin-top: 1.56em;
+    font-size: 18px;
+}
+
+.polkassemb{
+    margin-left: 100px;
+    margin-bottom: 20px;
+    letter-spacing: -0.003em;
+    line-height: 28px;
+    margin-top: 1.56em;
+    font-size: 18px;
+}
